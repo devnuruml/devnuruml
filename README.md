@@ -1,16 +1,22 @@
-### Hi there 👋
+# Hello! :wave: <br>This is Elissavet Triantafyllopoulou.    
+IT Professional / Multi-disciplinary Web Developer    / All Things Web / Lifelong Learner / Avid Doodler / Dreamer
 
-<!--
-**devnuruml/devnuruml** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* [Personal Website](https://elissavet.me "Personal Website")
+* [LinkedIn Profile](https://gr.linkedin.com/in/elitriant "LinkedIn Profile")
+* [Twitter Profile](https://twitter.com/EliTriant "Twitter Profile")
+* [CodePen Profile](https://codepen.io/elisavetTriant/ "CodePen Profile")
+* [GitHub Profile](https://github.com/elisavetTriant/ "GitHub Profile")
 
-Here are some ideas to get you started:
+## Who I am
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Hello there! My name is Elissavet Triantafyllopoulou and I come from Greece.
+
+> I've been in love with the Internet since 1999 and worked as a web developer and designer since 2003.
+
+I am an End-to-End Web Developer and Designer, coding both back-end and front-end, specializing in web design and open-source development as well as digital promotion and website maintenance.
+
+I am an avid doodler, a dreamer and an INFP among a gazillion other things.
+
+## Services
+
+### What I Can Do For You
